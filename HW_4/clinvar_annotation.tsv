@@ -1,0 +1,51 @@
+original_id	variant_key	canonical_spdi	ClinVar_presence	ClinVar_VariationID	ClinVar_accession	ClinVar_interpretation	ClinVar_review_status	ClinVar_last_evaluated	ClinVar_conditions	ClinVar_genes	ClinVar_URL
+rs10576	21:25592860:T>C	NC_000021.9:25592859:T:C	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs10576
+rs1057885	21:25592893:T>C	NC_000021.9:25592892:T:C	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs1057885
+rs115683257	21:32650278:C>A	NC_000021.9:32650277:C:A	YES	544577	VCV000544577.38	Benign/Likely benign	criteria provided, multiple submitters, no conflicts	2026/01/28 00:00	not provided;not specified;Developmental and epileptic encephalopathy, 53;Early-onset Parkinson disease 20	SYNJ1	https://www.ncbi.nlm.nih.gov/clinvar/variation/544577/
+rs2254562	21:32687042:T>C	NC_000021.9:32687041:T:C	YES	586758	VCV000586758.18	Benign	criteria provided, multiple submitters, no conflicts	2026/02/04 00:00	Developmental and epileptic encephalopathy, 53;Early-onset Parkinson disease 20;not provided;not specified	SYNJ1	https://www.ncbi.nlm.nih.gov/clinvar/variation/586758/
+rs115458101	21:33432763:G>A	NC_000021.9:33432762:G:A	YES	749643	VCV000749643.10	Likely benign	criteria provided, single submitter	2025/04/01 00:00	Immunodeficiency 28	IFNGR2;TMEM50B	https://www.ncbi.nlm.nih.gov/clinvar/variation/749643/
+rs34373350	21:38814278:G>A	NC_000021.9:38814277:G:A	YES	786688	VCV000786688.5	Benign	criteria provided, multiple submitters, no conflicts	2019/12/31 00:00	not provided	ETS2;LOC126653370	https://www.ncbi.nlm.nih.gov/clinvar/variation/786688/
+rs457705	21:38819507:T>G	NC_000021.9:38819506:T:G	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs457705
+rs116476013	21:38821689:C>T	NC_000021.9:38821688:C:T	YES	783879	VCV000783879.5	Benign	criteria provided, multiple submitters, no conflicts	2019/12/31 00:00	not provided	ETS2	https://www.ncbi.nlm.nih.gov/clinvar/variation/783879/
+rs61737061	21:43094699:G>A	NC_000021.9:43094698:G:A	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs61737061
+rs114573236	21:43982389:A>G	NC_000021.9:43982388:A:G	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs114573236
+rs34000365	22:19353405:G>A	NC_000022.11:19353404:G:A	YES	714835	VCV000714835.7	Benign	criteria provided, multiple submitters, no conflicts	2019/12/31 00:00	not provided	HIRA	https://www.ncbi.nlm.nih.gov/clinvar/variation/714835/
+rs114971216	22:19972976:C>T	NC_000022.11:19972975:C:T	YES	709199	VCV000709199.4	Benign	criteria provided, multiple submitters, no conflicts	2018/04/04 00:00	not provided	ARVCF	https://www.ncbi.nlm.nih.gov/clinvar/variation/709199/
+rs76496156	22:19979039:C>T	NC_000022.11:19979038:C:T	YES	712281	VCV000712281.4	Benign	criteria provided, multiple submitters, no conflicts	2018/03/30 00:00	not provided	ARVCF	https://www.ncbi.nlm.nih.gov/clinvar/variation/712281/
+rs114131171	22:19979765:G>A	NC_000022.11:19979764:G:A	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs114131171
+rs74544696	22:19979957:C>G	NC_000022.11:19979956:C:G	YES	1180930	VCV001180930.3	Benign	criteria provided, multiple submitters, no conflicts	2021/05/05 00:00	not provided	ARVCF	https://www.ncbi.nlm.nih.gov/clinvar/variation/1180930/
+rs1058399	22:19980020:G>A	NC_000022.11:19980019:G:A	YES	1290187	VCV001290187.3	Benign	criteria provided, multiple submitters, no conflicts	2021/05/05 00:00	not provided	ARVCF	https://www.ncbi.nlm.nih.gov/clinvar/variation/1290187/
+rs2073747	22:19981552:A>G	NC_000022.11:19981551:A:G	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs2073747
+rs116782322	22:19990695:G>A	NC_000022.11:19990694:G:A	YES	714837	VCV000714837.4	Benign	criteria provided, multiple submitters, no conflicts	2018/06/25 00:00	not provided	ARVCF	https://www.ncbi.nlm.nih.gov/clinvar/variation/714837/
+rs115706909	22:21643926:C>T	NC_000022.11:21643925:C:T	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs115706909
+rs115446312	22:21962760:G>A	NC_000022.11:21962759:G:A	YES	786695	VCV000786695.5	Benign	criteria provided, single submitter	2018/04/10 00:00	not provided	TOP3B	https://www.ncbi.nlm.nih.gov/clinvar/variation/786695/
+rs114712273	22:21962782:A>G	NC_000022.11:21962781:A:G	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs114712273
+rs5759611	22:23160934:G>A	NC_000022.11:23160933:G:A	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs5759611
+rs114362926	22:24183562:C>T	NC_000022.11:24183561:C:T	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs114362926
+rs116712499	22:24187576:G>A	NC_000022.11:24187575:G:A	YES	3172261	VCV003172261.1	Uncertain significance	criteria provided, single submitter	2024/01/23 00:00	not specified	SUSD2	https://www.ncbi.nlm.nih.gov/clinvar/variation/3172261/
+rs17885497	22:28742305:T>C	NC_000022.11:28742304:T:C	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs17885497
+rs114880151	22:30264324:G>C	NC_000022.11:30264323:G:C	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs114880151
+rs114917409	22:30461658:C>G	NC_000022.11:30461657:C:G	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs114917409
+rs116469787	22:30466386:G>A	NC_000022.11:30466385:G:A	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs116469787
+rs115812777	22:30468542:C>T	NC_000022.11:30468541:C:T	YES	3438982	VCV003438982.1	Uncertain significance	criteria provided, single submitter	2024/10/07 00:00	not specified	SEC14L3	https://www.ncbi.nlm.nih.gov/clinvar/variation/3438982/
+rs116155456	22:30470519:G>A	NC_000022.11:30470518:G:A	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs116155456
+rs115862749	22:30555417:G>A	NC_000022.11:30555416:G:A	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs115862749
+rs116593437	22:31091747:G>A	NC_000022.11:31091746:G:A	YES	721065	VCV000721065.4	Benign	criteria provided, single submitter	2019/12/31 00:00	not provided	SMTN	https://www.ncbi.nlm.nih.gov/clinvar/variation/721065/
+rs114015937	22:31091807:G>A	NC_000022.11:31091806:G:A	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs114015937
+rs116641021	22:31096797:C>T	NC_000022.11:31096796:C:T	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs116641021
+rs5997927	22:31262170:C>T	NC_000022.11:31262169:C:T	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs5997927
+rs113253213	22:33304315:G>A	NC_000022.11:33304314:G:A	YES	95167	VCV000095167.59	Conflicting classifications of pathogenicity	criteria provided, conflicting classifications	2026/01/22 00:00	not specified;Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A6;Muscular dystrophy-dystroglycanopathy type B6;not provided	LARGE1	https://www.ncbi.nlm.nih.gov/clinvar/variation/95167/
+rs34292743	22:33304411:G>A	NC_000022.11:33304410:G:A	YES	95166	VCV000095166.28	Benign/Likely benign	criteria provided, multiple submitters, no conflicts	2026/02/01 00:00	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A6;Muscular dystrophy-dystroglycanopathy type B6;not specified;not provided	LARGE1	https://www.ncbi.nlm.nih.gov/clinvar/variation/95166/
+rs59349720	22:33650466:G>A	NC_000022.11:33650465:G:A	YES	95174	VCV000095174.27	Benign/Likely benign	criteria provided, multiple submitters, no conflicts	2026/02/01 00:00	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A6;Muscular dystrophy-dystroglycanopathy type B6;not specified;not provided	LARGE1	https://www.ncbi.nlm.nih.gov/clinvar/variation/95174/
+rs6001200	22:38699844:G>C	NC_000022.11:38699843:G:C	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs6001200
+rs114180421	22:38699942:A>G	NC_000022.11:38699941:A:G	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs114180421
+rs114704208	22:39044171:A>T	NC_000022.11:39044170:A:T	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs114704208
+rs35978693	22:39225792:G>T	NC_000022.11:39225791:G:T	YES	777710	VCV000777710.12	Benign	criteria provided, multiple submitters, no conflicts	2025/12/24 00:00	not specified;not provided	PDGFB	https://www.ncbi.nlm.nih.gov/clinvar/variation/777710/
+rs116555717	22:39231644:T>C	NC_000022.11:39231643:T:C	YES	3305447	VCV003305447.2	Conflicting classifications of pathogenicity	criteria provided, conflicting classifications	2025/12/14 00:00	not provided;Inborn genetic diseases	PDGFB	https://www.ncbi.nlm.nih.gov/clinvar/variation/3305447/
+rs112945971	22:39744158:G>A	NC_000022.11:39744157:G:A	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs112945971
+rs114714334	22:39861847:C>T	NC_000022.11:39861846:C:T	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs114714334
+rs75296456	22:39862000:A>G	NC_000022.11:39861999:A:G	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs75296456
+rs8139570	22:39887557:A>G	NC_000022.11:39887556:A:G	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs8139570
+rs116438980	22:40019984:A>G	NC_000022.11:40019983:A:G	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs116438980
+rs115264708	22:44891338:T>C	NC_000022.11:44891337:T:C	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs115264708
+rs114043304	22:44920488:A>G	NC_000022.11:44920487:A:G	NO_EXACT_MATCH_FOUND								https://www.ncbi.nlm.nih.gov/clinvar/?term=rs114043304
