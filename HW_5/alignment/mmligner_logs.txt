@@ -1,0 +1,45 @@
+Summary:
+Alignment 1 stats
+Structure Sizes =   100, 100
+Coverage        =   30
+RMSD            =     3.123 A
+I(A)            =    41.817 bits
+NULL(S & T)     =  7173.718 bits
+I(A & <S,T>)    =  7081.773 bits
+Compression     =    91.944 bits (+ve better; -ve worse)
+-------
+Alignment 2 stats
+Structure Sizes =   100, 100
+Coverage        =   24
+RMSD            =     2.871 A
+I(A)            =    47.487 bits
+NULL(S & T)     =  7173.718 bits
+I(A & <S,T>)    =  7097.517 bits
+Compression     =    76.201 bits (+ve better; -ve worse)
+-------
+Alignment 3 stats
+Structure Sizes =   100, 100
+Coverage        =   26
+RMSD            =     2.655 A
+I(A)            =    50.238 bits
+NULL(S & T)     =  7173.718 bits
+I(A & <S,T>)    =  7100.624 bits
+Compression     =    73.094 bits (+ve better; -ve worse)
+-------
+Alignment 4 stats
+Structure Sizes =   100, 100
+Coverage        =   26
+RMSD            =     2.686 A
+I(A)            =    52.362 bits
+NULL(S & T)     =  7173.718 bits
+I(A & <S,T>)    =  7101.928 bits
+Compression     =    71.790 bits (+ve better; -ve worse)
+-------
+Alignment 5 stats
+Structure Sizes =   100, 100
+Coverage        =   26
+RMSD            =     1.904 A
+I(A)            =    61.607 bits
+NULL(S & T)     =  7173.718 bits
+I(A & <S,T>)    =  7102.345 bits
+Compression     =    71.372 bits (+ve better; -ve worse)

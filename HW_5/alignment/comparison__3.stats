@@ -1,0 +1,7 @@
+Structure Sizes =   100 100
+Coverage        =   26       
+RMSD            =   2.65542 A
+I(A)            =   50.2382 bits
+NULL(S & T)     =   7173.72 bits
+I(A & <S,T>)    =   7100.62 bits
+Compression     =   73.0936 bits (+ve better; -ve worse)
